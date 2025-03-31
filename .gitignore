@@ -1,0 +1,61 @@
+# Project test_2232a498-4665-e4dd-29cd-e9d5896894d9
+# ignore other Baldurs Gate 3 files
+bin/
+DotNetCore/
+Launcher/
+InstallScript.vdf
+DigitalDeluxe/
+# Data
+!Data/
+Data/*
+# Editor directory
+!Data/Editor/
+Data/Editor/*
+!Data/Editor/Mods/
+Data/Editor/Mods/*
+!Data/Editor/Mods/test_2232a498-4665-e4dd-29cd-e9d5896894d9
+# Mods directory
+!Data/Mods/
+Data/Mods/*
+!Data/Mods/test_2232a498-4665-e4dd-29cd-e9d5896894d9
+Data/Mods/test_2232a498-4665-e4dd-29cd-e9d5896894d9/Story/Dialogs/Autosave/*
+Data/Mods/test_2232a498-4665-e4dd-29cd-e9d5896894d9/Story/Dialogs/Recovered/*
+# Parse Projects
+!Data/Projects/
+Data/Projects/*
+!Data/Projects/test_2232a498-4665-e4dd-29cd-e9d5896894d9
+# Parse Public
+!Data/Public/
+Data/Public/*
+!Data/Public/test_2232a498-4665-e4dd-29cd-e9d5896894d9
+# Story build files
+goals.raw
+story.div
+story.div.osi
+story_ac.dat
+story_header.div
+# AI grid generate files
+aigridmeta.data
+aigridpainted.data
+aigrid.data
+navigationPortals.lsf
+# minimap files
+**/Minimaps/*
+MinimapAtlas.mmxml
+# ignore logs
+*.log
+*.ailog
+log.txt
+errors.txt
+dialoglog.txt
+personallog.txt
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.lnk
