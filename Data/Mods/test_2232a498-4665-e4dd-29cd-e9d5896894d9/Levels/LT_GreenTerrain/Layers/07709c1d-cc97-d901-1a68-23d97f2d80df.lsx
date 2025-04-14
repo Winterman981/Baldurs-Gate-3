@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="ID" type="guid" value="07709c1d-cc97-d901-1a68-23d97f2d80df"/>
+            <attribute id="LayerColor" type="int32" value="8026746"/>
+            <attribute id="Name" type="LSString" value="Cave Mouth"/>
+        </node>
+    </region>
+</save>
